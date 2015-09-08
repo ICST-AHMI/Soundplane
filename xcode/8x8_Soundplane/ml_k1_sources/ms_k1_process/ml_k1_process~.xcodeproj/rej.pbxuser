@@ -1,0 +1,223 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeExecutable = B5CE7CF50E3B8550001AFCB7 /* Max/MSPRuntime4.6 */;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* ml_k1_process~ */;
+		addToTargets = (
+			8D01CCC60486CAD60068D4B7 /* ml_k1_process~ */,
+		);
+		breakpoints = (
+			B54515690E3FF07900C9E30D /* birch1_process~.cp:1047 */,
+		);
+		codeSenseManager = B59A5D500C9866E7008C2A80 /* Code sense */;
+		executables = (
+			B5CE7CF50E3B8550001AFCB7 /* Max/MSPRuntime4.6 */,
+		);
+		expressions = (
+			"(float *)0xe417130",
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					286.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					529,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 255236014;
+			PBXWorkspaceStateSaveDate = 255236014;
+		};
+		perUserProjectItems = {
+			B52E9BA20F3757FE00B104A9 /* PBXTextBookmark */ = B52E9BA20F3757FE00B104A9 /* PBXTextBookmark */;
+			B52E9BA30F3757FE00B104A9 /* PBXTextBookmark */ = B52E9BA30F3757FE00B104A9 /* PBXTextBookmark */;
+			B5A0DD520E4F78AC00488434 /* PBXTextBookmark */ = B5A0DD520E4F78AC00488434 /* PBXTextBookmark */;
+			B5A0DD560E4F78AC00488434 /* PBXTextBookmark */ = B5A0DD560E4F78AC00488434 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B59A5D4F0C9866E7008C2A80 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D01CCC60486CAD60068D4B7 /* ml_k1_process~ */ = {
+		activeExec = 0;
+	};
+	B52E9B510F3695AC00B104A9 /* ml_k1_process~.cp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 14966}}";
+			sepNavSelRange = "{1186, 0}";
+			sepNavVisRange = "{0, 1680}";
+		};
+	};
+	B52E9BA20F3757FE00B104A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B52E9B510F3695AC00B104A9 /* ml_k1_process~.cp */;
+		name = "ml_k1_process~.cp: 14";
+		rLen = 0;
+		rLoc = 1360;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 0;
+	};
+	B52E9BA30F3757FE00B104A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B52E9B510F3695AC00B104A9 /* ml_k1_process~.cp */;
+		name = "ml_k1_process~.cp: 23";
+		rLen = 0;
+		rLoc = 1186;
+		rType = 0;
+		vrLen = 1680;
+		vrLoc = 0;
+	};
+	B54515690E3FF07900C9E30D /* birch1_process~.cp:1047 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = B583236E0E3AA66B009A3489 /* birch1_process~.cp */;
+		functionName = "ujit_matrix_get_name(t_jit_object * m)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1047;
+		location = "birch1_process~";
+		modificationTime = 240095089.387819;
+		state = 2;
+	};
+	B583236E0E3AA66B009A3489 /* birch1_process~.cp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "birch1_process~.cp";
+		path = "/Users/rej/Dev/MaxMSP UB SDK/madrona-max-dev/ml_k1_process~/birch1_process~.cp";
+		sourceTree = "<absolute>";
+	};
+	B59A5D4F0C9866E7008C2A80 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	B59A5D500C9866E7008C2A80 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B5A0DD520E4F78AC00488434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5A0DD530E4F78AC00488434 /* ctype.h */;
+		name = "ctype.h: 254";
+		rLen = 16;
+		rLoc = 8601;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 7829;
+	};
+	B5A0DD530E4F78AC00488434 /* ctype.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ctype.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/ctype.h;
+		sourceTree = "<absolute>";
+	};
+	B5A0DD560E4F78AC00488434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B5A0DD570E4F78AC00488434 /* ctype.h */;
+		name = "ctype.h: 254";
+		rLen = 16;
+		rLoc = 8601;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 7829;
+	};
+	B5A0DD570E4F78AC00488434 /* ctype.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ctype.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/ctype.h;
+		sourceTree = "<absolute>";
+	};
+	B5CE7CF50E3B8550001AFCB7 /* Max/MSPRuntime4.6 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = B5CE7CF60E3B8550001AFCB7 /* MaxMSP.app */;
+		libgmallocEnabled = 0;
+		name = Max/MSPRuntime4.6;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			"o_magic-long int-birch1proc_matrix_out" = 1;
+		};
+	};
+	B5CE7CF60E3B8550001AFCB7 /* MaxMSP.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = MaxMSP.app;
+		path = "/Applications/MaxMSP 4.6/MaxMSP Runtime.app";
+		sourceTree = "<absolute>";
+	};
+}
